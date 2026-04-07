@@ -1,5 +1,4 @@
-from .knowledge_base import DEPARTMENT_MAP
-
+from agents.decision_agent.knowledge_base import DEPARTMENT_MAP
 
 def decide_action(classification_output: dict):
 
@@ -7,22 +6,21 @@ def decide_action(classification_output: dict):
     confidence = classification_output["confidence"]
     text = classification_output["raw_text"].lower()
 
-    # 🔹 Step 3: Department (RAG)
+    # 🔹 1. Department (RAG)
     department = DEPARTMENT_MAP.get(category, "General Department")
 
-    # 🔹 Step 4: Priority
-    if any(word in text for word in ["urgent", "accident", "danger", "leakage", "not working"]) or confidence >= 0.5:
+    # 🔹 2. Priority logic (FIXED)
+    if any(word in text for word in ["urgent", "accident", "danger", "leak", "fire"]):
         priority = "High"
-    elif confidence < 0.5 and confidence >= 0.3:
+    elif confidence >= 0.7:
+        priority = "High"
+    elif 0.4 <= confidence < 0.7:
         priority = "Medium"
     else:
         priority = "Low"
 
-    # 🔹 Step 5: Escalation (🔥 important)
-    if priority == "High" or confidence > 0.5:
-        escalation = "Yes"
-    else:
-        escalation = "No"
+    # 🔹 3. Escalation logic (CLEAN)
+    escalation = "Yes" if priority in ["High", "Medium"] else "No"
 
     return {
         "department": department,

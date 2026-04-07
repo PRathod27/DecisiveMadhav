@@ -79,6 +79,7 @@
     "city": "Mumbai",
     "escalation_required": true
   },
+
   {
     "complaint": "Stray dogs barking all night",
     "category": "Animal Control",
@@ -159,6 +160,7 @@
     "city": "Bangalore",
     "escalation_required": false
   },
+
   {
     "complaint": "Electric pole damaged dangerously",
     "category": "Electricity",
@@ -319,6 +321,7 @@
     "city": "Patna",
     "escalation_required": true
   },
+
   {
     "complaint": "Stray cattle blocking roads",
     "category": "Animal Control",
@@ -399,6 +402,7 @@
     "city": "Surat",
     "escalation_required": true
   },
+
   {
     "complaint": "Transformer making loud noise",
     "category": "Electricity",
@@ -479,6 +483,7 @@
     "city": "Chennai",
     "escalation_required": false
   },
+
   {
     "complaint": "Garbage collection vehicle not coming regularly",
     "category": "Sanitation",
@@ -559,6 +564,7 @@
     "city": "Ludhiana",
     "escalation_required": true
   },
+
   {
     "complaint": "Stray animals blocking highway",
     "category": "Animal Control",
@@ -639,6 +645,7 @@
     "city": "Durg",
     "escalation_required": false
   },
+
   {
     "complaint": "Electric pole tilted dangerously",
     "category": "Electricity",
@@ -719,6 +726,7 @@
     "city": "Darbhanga",
     "escalation_required": false
   },
+
   {
     "complaint": "Garbage scattered all over the street",
     "category": "Sanitation",
@@ -799,6 +807,7 @@
     "city": "Rampur",
     "escalation_required": true
   },
+
   {
     "complaint": "Stray dogs chasing pedestrians",
     "category": "Animal Control",
@@ -879,6 +888,7 @@
     "city": "Mau",
     "escalation_required": false
   },
+
   {
     "complaint": "Electric pole about to fall",
     "category": "Electricity",
@@ -1039,6 +1049,7 @@
     "city": "Jalgaon",
     "escalation_required": true
   },
+
   {
     "complaint": "Stray dogs attacking people",
     "category": "Animal Control",
@@ -1119,6 +1130,7 @@
     "city": "Kozhikode",
     "escalation_required": true
   },
+
   {
     "complaint": "Electric pole broken",
     "category": "Electricity",
@@ -1279,6 +1291,7 @@
     "city": "Ahmedabad",
     "escalation_required": true
   },
+
   {
     "complaint": "Stray dogs creating safety issue",
     "category": "Animal Control",
@@ -1359,6 +1372,7 @@
     "city": "Ranchi",
     "escalation_required": true
   },
+
   {
     "complaint": "Electric pole damaged after storm",
     "category": "Electricity",
@@ -1519,6 +1533,7 @@
     "city": "Ahmedabad",
     "escalation_required": true
   },
+
   {
     "complaint": "Stray animals causing road accidents",
     "category": "Animal Control",
@@ -1599,6 +1614,7 @@
     "city": "Ranchi",
     "escalation_required": true
   },
+
   {
     "complaint": "Electric pole collapsed on road",
     "category": "Electricity",
@@ -1678,17 +1694,5 @@
     "priority": "Medium",
     "city": "Shimla",
     "escalation_required": false
-  },
-  {
-    "additionalProp1": {}
-  },
-  {
-    "text": "water leakage from 5 days"
-  },
-  {
-    "text": "water leakage from 5 days"
-  },
-  {
-    "complaint": "water leakage from 5 days"
   }
 ]

@@ -1,7 +1,7 @@
 from fastapi import FastAPI
-from app.routes import complaints
-from app.routes import auth, dashboard
-from app.database import Base, engine
+from .routes import complaints
+from .routes import auth, dashboard
+from .database import Base, engine
 
 Base.metadata.create_all(bind=engine)
 

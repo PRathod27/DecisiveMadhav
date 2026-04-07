@@ -1,0 +1,842 @@
+[
+  {
+    "text": "Garbage not collected for 4 days in our street",
+    "label": 0
+  },
+  {
+    "text": "Overflowing garbage bins near bus stand",
+    "label": 0
+  },
+  {
+    "text": "Street lights not working properly",
+    "label": 3
+  },
+  {
+    "text": "Frequent power cuts in locality",
+    "label": 3
+  },
+  {
+    "text": "Water leakage from main pipeline",
+    "label": 1
+  },
+  {
+    "text": "No water supply since morning",
+    "label": 2
+  },
+  {
+    "text": "Potholes causing accidents",
+    "label": 1
+  },
+  {
+    "text": "Drain blockage causing overflow",
+    "label": 0
+  },
+  {
+    "text": "Illegal parking blocking traffic",
+    "label": 4
+  },
+  {
+    "text": "Sewage water flowing on road",
+    "label": 0
+  },
+  {
+    "text": "Stray dogs barking all night",
+    "label": 5
+  },
+  {
+    "text": "Street light flickering continuously",
+    "label": 3
+  },
+  {
+    "text": "Open manhole near residential area",
+    "label": 1
+  },
+  {
+    "text": "Tree fallen blocking main road",
+    "label": 1
+  },
+  {
+    "text": "Drinking water has bad smell",
+    "label": 2
+  },
+  {
+    "text": "Traffic signal not working",
+    "label": 4
+  },
+  {
+    "text": "Illegal construction in area",
+    "label": 1
+  },
+  {
+    "text": "Garbage burning causing pollution",
+    "label": 5
+  },
+  {
+    "text": "Water tanker delay issue",
+    "label": 2
+  },
+  {
+    "text": "Public toilet not cleaned",
+    "label": 0
+  },
+  {
+    "text": "Electric pole damaged dangerously",
+    "label": 3
+  },
+  {
+    "text": "Drain water smell spreading",
+    "label": 0
+  },
+  {
+    "text": "Road construction incomplete for months",
+    "label": 1
+  },
+  {
+    "text": "Bus stop roof broken",
+    "label": 4
+  },
+  {
+    "text": "Low water pressure issue",
+    "label": 2
+  },
+  {
+    "text": "Voltage fluctuation damaging appliances",
+    "label": 3
+  },
+  {
+    "text": "Footpath encroachment problem",
+    "label": 1
+  },
+  {
+    "text": "Government hospital negligence",
+    "label": 6
+  },
+  {
+    "text": "Mosquito breeding near house",
+    "label": 6
+  },
+  {
+    "text": "Noise from construction site",
+    "label": 5
+  },
+  {
+    "text": "Garbage pile not cleared near school",
+    "label": 0
+  },
+  {
+    "text": "Dustbins missing in public area",
+    "label": 0
+  },
+  {
+    "text": "Power outage every evening",
+    "label": 3
+  },
+  {
+    "text": "Loose electric wires hanging",
+    "label": 3
+  },
+  {
+    "text": "Water pipeline burst in street",
+    "label": 1
+  },
+  {
+    "text": "Irregular water supply timings",
+    "label": 2
+  },
+  {
+    "text": "Huge pothole on highway",
+    "label": 1
+  },
+  {
+    "text": "Drain overflow during rain",
+    "label": 0
+  },
+  {
+    "text": "Traffic congestion due to signal issue",
+    "label": 4
+  },
+  {
+    "text": "Sewage leakage near houses",
+    "label": 0
+  },
+  {
+    "text": "Stray cattle blocking roads",
+    "label": 5
+  },
+  {
+    "text": "Street lights not installed in new colony",
+    "label": 3
+  },
+  {
+    "text": "Manhole cover missing",
+    "label": 1
+  },
+  {
+    "text": "Flooded road after rain",
+    "label": 1
+  },
+  {
+    "text": "Dirty water coming from taps",
+    "label": 2
+  },
+  {
+    "text": "Signal timing causing traffic jams",
+    "label": 4
+  },
+  {
+    "text": "Illegal shop encroachment",
+    "label": 1
+  },
+  {
+    "text": "Factory smoke causing pollution",
+    "label": 5
+  },
+  {
+    "text": "Water tanker skipping our area",
+    "label": 2
+  },
+  {
+    "text": "Public washroom unusable",
+    "label": 0
+  },
+  {
+    "text": "Transformer making loud noise",
+    "label": 3
+  },
+  {
+    "text": "Blocked sewer line",
+    "label": 0
+  },
+  {
+    "text": "Road not repaired after digging",
+    "label": 1
+  },
+  {
+    "text": "Damaged bus shelter",
+    "label": 4
+  },
+  {
+    "text": "Water shortage in morning hours",
+    "label": 2
+  },
+  {
+    "text": "Electric sparks from pole",
+    "label": 3
+  },
+  {
+    "text": "Footpath blocked by vendors",
+    "label": 1
+  },
+  {
+    "text": "Clinic refusing treatment",
+    "label": 6
+  },
+  {
+    "text": "Stagnant water causing dengue risk",
+    "label": 6
+  },
+  {
+    "text": "Loudspeaker noise at night",
+    "label": 5
+  },
+  {
+    "text": "Garbage collection vehicle not coming regularly",
+    "label": 0
+  },
+  {
+    "text": "Waste dumped illegally near river",
+    "label": 5
+  },
+  {
+    "text": "Power outage during night hours",
+    "label": 3
+  },
+  {
+    "text": "Transformer not working properly",
+    "label": 3
+  },
+  {
+    "text": "Water pipeline leaking continuously",
+    "label": 1
+  },
+  {
+    "text": "No drinking water in area for two days",
+    "label": 2
+  },
+  {
+    "text": "Deep potholes causing vehicle damage",
+    "label": 1
+  },
+  {
+    "text": "Drain water entering homes",
+    "label": 0
+  },
+  {
+    "text": "Traffic jam due to broken signal",
+    "label": 4
+  },
+  {
+    "text": "Sewage overflow near market",
+    "label": 0
+  },
+  {
+    "text": "Stray animals blocking highway",
+    "label": 5
+  },
+  {
+    "text": "Street lights missing on road",
+    "label": 3
+  },
+  {
+    "text": "Manhole cover broken",
+    "label": 1
+  },
+  {
+    "text": "Heavy waterlogging after rain",
+    "label": 1
+  },
+  {
+    "text": "Drinking water looks muddy",
+    "label": 2
+  },
+  {
+    "text": "Traffic lights out of sync",
+    "label": 4
+  },
+  {
+    "text": "Encroachment on public land",
+    "label": 1
+  },
+  {
+    "text": "Industrial waste dumped nearby",
+    "label": 5
+  },
+  {
+    "text": "Water supply irregular in mornings",
+    "label": 2
+  },
+  {
+    "text": "Public toilet lacks water facility",
+    "label": 0
+  },
+  {
+    "text": "Electric pole tilted dangerously",
+    "label": 3
+  },
+  {
+    "text": "Drain clogged causing overflow",
+    "label": 0
+  },
+  {
+    "text": "Road dug but not repaired",
+    "label": 1
+  },
+  {
+    "text": "Bus stop seat broken",
+    "label": 4
+  },
+  {
+    "text": "Water pressure very low",
+    "label": 2
+  },
+  {
+    "text": "Electric sparks during rain",
+    "label": 3
+  },
+  {
+    "text": "Footpath occupied by shops",
+    "label": 1
+  },
+  {
+    "text": "Primary health center closed",
+    "label": 6
+  },
+  {
+    "text": "Mosquito issue increasing daily",
+    "label": 6
+  },
+  {
+    "text": "Loud DJ noise late night",
+    "label": 5
+  },
+  {
+    "text": "Garbage scattered all over the street",
+    "label": 0
+  },
+  {
+    "text": "Industrial waste dumped near residential area",
+    "label": 5
+  },
+  {
+    "text": "Frequent power outages during daytime",
+    "label": 3
+  },
+  {
+    "text": "Electric transformer burnt out",
+    "label": 3
+  },
+  {
+    "text": "Water pipeline leakage near park",
+    "label": 1
+  },
+  {
+    "text": "No water supply for last 24 hours",
+    "label": 2
+  },
+  {
+    "text": "Road full of potholes after rain",
+    "label": 1
+  },
+  {
+    "text": "Drain overflow near hospital",
+    "label": 0
+  },
+  {
+    "text": "Traffic congestion due to illegal parking",
+    "label": 4
+  },
+  {
+    "text": "Sewage leakage near shops",
+    "label": 0
+  },
+  {
+    "text": "Stray dogs chasing pedestrians",
+    "label": 5
+  },
+  {
+    "text": "Street lights not functioning at night",
+    "label": 3
+  },
+  {
+    "text": "Manhole without cover on busy road",
+    "label": 1
+  },
+  {
+    "text": "Flood water entering homes",
+    "label": 1
+  },
+  {
+    "text": "Water smells bad and unsafe",
+    "label": 2
+  },
+  {
+    "text": "Traffic signal not visible properly",
+    "label": 4
+  },
+  {
+    "text": "Encroachment blocking footpath",
+    "label": 1
+  },
+  {
+    "text": "Air pollution due to factory emissions",
+    "label": 5
+  },
+  {
+    "text": "Water tanker arrives late every day",
+    "label": 2
+  },
+  {
+    "text": "Public toilet in poor condition",
+    "label": 0
+  },
+  {
+    "text": "Electric pole about to fall",
+    "label": 3
+  },
+  {
+    "text": "Drain water stagnating on road",
+    "label": 0
+  },
+  {
+    "text": "Road damaged due to heavy vehicles",
+    "label": 1
+  },
+  {
+    "text": "Bus stand roof leaking",
+    "label": 4
+  },
+  {
+    "text": "Water supply stops frequently",
+    "label": 2
+  },
+  {
+    "text": "Electric shock risk from exposed wires",
+    "label": 3
+  },
+  {
+    "text": "Footpath blocked by street vendors",
+    "label": 1
+  },
+  {
+    "text": "Government hospital lacks medicines",
+    "label": 6
+  },
+  {
+    "text": "Mosquito breeding due to stagnant water",
+    "label": 6
+  },
+  {
+    "text": "Noise pollution from factory at night",
+    "label": 5
+  },
+  {
+    "text": "Garbage not picked up from colony",
+    "label": 0
+  },
+  {
+    "text": "Plastic waste dumped in open area",
+    "label": 5
+  },
+  {
+    "text": "Frequent electricity outages",
+    "label": 3
+  },
+  {
+    "text": "Transformer sparking during night",
+    "label": 3
+  },
+  {
+    "text": "Water pipe leakage near market",
+    "label": 1
+  },
+  {
+    "text": "No water supply in residential area",
+    "label": 2
+  },
+  {
+    "text": "Road damaged due to construction",
+    "label": 1
+  },
+  {
+    "text": "Drain overflow near shops",
+    "label": 0
+  },
+  {
+    "text": "Traffic jam near signal",
+    "label": 4
+  },
+  {
+    "text": "Sewage water leakage in colony",
+    "label": 0
+  },
+  {
+    "text": "Stray dogs attacking people",
+    "label": 5
+  },
+  {
+    "text": "Street lights not working",
+    "label": 3
+  },
+  {
+    "text": "Manhole open without cover",
+    "label": 1
+  },
+  {
+    "text": "Flooding in streets after rain",
+    "label": 1
+  },
+  {
+    "text": "Drinking water contaminated",
+    "label": 2
+  },
+  {
+    "text": "Traffic lights malfunctioning",
+    "label": 4
+  },
+  {
+    "text": "Illegal encroachment on road",
+    "label": 1
+  },
+  {
+    "text": "Air pollution due to burning waste",
+    "label": 5
+  },
+  {
+    "text": "Water tanker delay",
+    "label": 2
+  },
+  {
+    "text": "Public toilets dirty and unusable",
+    "label": 0
+  },
+  {
+    "text": "Electric pole broken",
+    "label": 3
+  },
+  {
+    "text": "Drain blockage causing smell",
+    "label": 0
+  },
+  {
+    "text": "Road not repaired after digging",
+    "label": 1
+  },
+  {
+    "text": "Bus shelter damaged",
+    "label": 4
+  },
+  {
+    "text": "Water supply irregular",
+    "label": 2
+  },
+  {
+    "text": "Electric sparks near house",
+    "label": 3
+  },
+  {
+    "text": "Footpath encroached by vendors",
+    "label": 1
+  },
+  {
+    "text": "Hospital staff not available",
+    "label": 6
+  },
+  {
+    "text": "Mosquito issue due to water stagnation",
+    "label": 6
+  },
+  {
+    "text": "Noise pollution from construction",
+    "label": 5
+  },
+  {
+    "text": "Garbage not cleared from roadside for days",
+    "label": 0
+  },
+  {
+    "text": "Open dumping of waste near residential colony",
+    "label": 5
+  },
+  {
+    "text": "Continuous power cut in evening",
+    "label": 3
+  },
+  {
+    "text": "Electric transformer overheating",
+    "label": 3
+  },
+  {
+    "text": "Water pipe burst on main street",
+    "label": 1
+  },
+  {
+    "text": "No water supply in morning hours",
+    "label": 2
+  },
+  {
+    "text": "Road damaged due to rainwater",
+    "label": 1
+  },
+  {
+    "text": "Drain blockage causing water overflow",
+    "label": 0
+  },
+  {
+    "text": "Traffic congestion during peak hours",
+    "label": 4
+  },
+  {
+    "text": "Sewage water entering homes",
+    "label": 0
+  },
+  {
+    "text": "Stray dogs creating safety issue",
+    "label": 5
+  },
+  {
+    "text": "Street lights not installed in colony",
+    "label": 3
+  },
+  {
+    "text": "Open manhole causing accident risk",
+    "label": 1
+  },
+  {
+    "text": "Flooded streets after rainfall",
+    "label": 1
+  },
+  {
+    "text": "Water contamination issue in area",
+    "label": 2
+  },
+  {
+    "text": "Traffic signal not working properly",
+    "label": 4
+  },
+  {
+    "text": "Illegal construction blocking road",
+    "label": 1
+  },
+  {
+    "text": "Smoke from factories causing pollution",
+    "label": 5
+  },
+  {
+    "text": "Water tanker not reaching area",
+    "label": 2
+  },
+  {
+    "text": "Public toilets dirty and unhygienic",
+    "label": 0
+  },
+  {
+    "text": "Electric pole damaged after storm",
+    "label": 3
+  },
+  {
+    "text": "Drain blockage causing foul smell",
+    "label": 0
+  },
+  {
+    "text": "Road digging not completed",
+    "label": 1
+  },
+  {
+    "text": "Bus stop roof broken",
+    "label": 4
+  },
+  {
+    "text": "Water pressure too low in taps",
+    "label": 2
+  },
+  {
+    "text": "Electric sparks from loose wires",
+    "label": 3
+  },
+  {
+    "text": "Footpath blocked by vendors",
+    "label": 1
+  },
+  {
+    "text": "Hospital lacks doctors",
+    "label": 6
+  },
+  {
+    "text": "Mosquito breeding in stagnant water",
+    "label": 6
+  },
+  {
+    "text": "Noise pollution due to loudspeakers",
+    "label": 5
+  },
+  {
+    "text": "Garbage not cleared from market area",
+    "label": 0
+  },
+  {
+    "text": "Plastic waste burning causing pollution",
+    "label": 5
+  },
+  {
+    "text": "Frequent electricity failure at night",
+    "label": 3
+  },
+  {
+    "text": "Transformer failure causing blackout",
+    "label": 3
+  },
+  {
+    "text": "Major water leakage on highway",
+    "label": 1
+  },
+  {
+    "text": "No water supply for 2 days",
+    "label": 2
+  },
+  {
+    "text": "Road collapsed after heavy rain",
+    "label": 1
+  },
+  {
+    "text": "Drain overflow flooding houses",
+    "label": 0
+  },
+  {
+    "text": "Severe traffic jam due to signal failure",
+    "label": 4
+  },
+  {
+    "text": "Sewage water mixed with drinking water",
+    "label": 0
+  },
+  {
+    "text": "Stray animals causing road accidents",
+    "label": 5
+  },
+  {
+    "text": "Street lights completely off in area",
+    "label": 3
+  },
+  {
+    "text": "Open manhole led to accident",
+    "label": 1
+  },
+  {
+    "text": "Heavy flooding due to blocked drains",
+    "label": 1
+  },
+  {
+    "text": "Water contaminated with sewage",
+    "label": 2
+  },
+  {
+    "text": "Traffic signals not working at junction",
+    "label": 4
+  },
+  {
+    "text": "Illegal encroachment blocking road",
+    "label": 1
+  },
+  {
+    "text": "Air pollution due to factory smoke",
+    "label": 5
+  },
+  {
+    "text": "Water tanker not supplied for days",
+    "label": 2
+  },
+  {
+    "text": "Public toilets extremely dirty",
+    "label": 0
+  },
+  {
+    "text": "Electric pole collapsed on road",
+    "label": 3
+  },
+  {
+    "text": "Drain blockage causing health hazard",
+    "label": 0
+  },
+  {
+    "text": "Road not repaired after pipeline work",
+    "label": 1
+  },
+  {
+    "text": "Bus stop damaged and unsafe",
+    "label": 4
+  },
+  {
+    "text": "Water pressure extremely low",
+    "label": 2
+  },
+  {
+    "text": "Electric wires exposed and dangerous",
+    "label": 3
+  },
+  {
+    "text": "Footpath occupied by illegal vendors",
+    "label": 1
+  },
+  {
+    "text": "Government hospital lacks basic facilities",
+    "label": 6
+  },
+  {
+    "text": "Mosquito infestation increasing rapidly",
+    "label": 6
+  },
+  {
+    "text": "Noise pollution disturbing residents",
+    "label": 5
+  }
+]

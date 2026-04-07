@@ -1,5 +1,5 @@
 from fastapi import APIRouter, HTTPException
-from app.services.complaints_service import add_complaint, get_all_complaints
+from ..services.complaints_service import add_complaint, get_all_complaints
 
 router = APIRouter(prefix="/complaints")
 

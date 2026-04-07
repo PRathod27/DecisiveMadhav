@@ -1,32 +1,35 @@
+from transformers import pipeline
 import os
-from huggingface_hub import InferenceClient
-from .labels import CATEGORIES
+# Load your trained model
+BASE_DIR = os.path.dirname(__file__)
+MODEL_PATH = os.path.join(BASE_DIR, "model")
 
-# 1. Initialize the client (It automatically finds the right router)
-client = InferenceClient(
-    provider="hf-inference", 
-    api_key=os.getenv("HF_TOKEN")
+classifier = pipeline(
+    "text-classification",
+    model=MODEL_PATH
 )
+# label mapping (MUST match training)
+id2label = {
+    0: "Sanitation",
+    1: "Infrastructure",
+    2: "Water",
+    3: "Electricity",
+    4: "Traffic",
+    5: "Environment",
+    6: "Health"
+}
+
 
 def classify_complaint(complaint: str):
-    # 2. Use the specialized zero_shot_classification method
-    # This replaces the manual requests.post logic
-    try:
-        result = client.zero_shot_classification(
-            complaint,
-            candidate_labels=CATEGORIES,
-            model="facebook/bart-large-mnli"
-        )
-        
-        # The result is already a clean list of dictionaries
-        top_result = result[0]
-        
-        return {
-            "analysis": f"{top_result['label']} related issue",
-            "category": top_result['label'],
-            "confidence": round(top_result['score'], 2),
-            "raw_text": complaint
-        }
-    except Exception as e:
-        print(f"Inference failed: {e}")
-        raise
+
+    result = classifier(complaint)[0]
+
+    label_index = int(result["label"].split("_")[-1])
+    category = id2label[label_index]
+
+    return {
+        "analysis": f"{category} related issue",
+        "category": category,
+        "confidence": round(result["score"], 2),
+        "raw_text": complaint
+    }
