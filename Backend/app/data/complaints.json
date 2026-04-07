@@ -1,0 +1,1685 @@
+[
+  {
+    "complaint": "Garbage not collected for 4 days in our street",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Patna",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Overflowing garbage bins near bus stand",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Delhi",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Street lights not working properly",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "Medium",
+    "city": "Mumbai",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Frequent power cuts in locality",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Kolkata",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water leakage from main pipeline",
+    "category": "Infrastructure",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Chennai",
+    "escalation_required": false
+  },
+  {
+    "complaint": "No water supply since morning",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Bangalore",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Potholes causing accidents",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "High",
+    "city": "Hyderabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drain blockage causing overflow",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Patna",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Illegal parking blocking traffic",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "Medium",
+    "city": "Delhi",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Sewage water flowing on road",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Mumbai",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Stray dogs barking all night",
+    "category": "Animal Control",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Kolkata",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Street light flickering continuously",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "Low",
+    "city": "Chennai",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Open manhole near residential area",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Bangalore",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Tree fallen blocking main road",
+    "category": "Disaster",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Hyderabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drinking water has bad smell",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Patna",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Traffic signal not working",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "High",
+    "city": "Delhi",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Illegal construction in area",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Mumbai",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Garbage burning causing pollution",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "High",
+    "city": "Kolkata",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water tanker delay issue",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Chennai",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Public toilet not cleaned",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Bangalore",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Electric pole damaged dangerously",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Hyderabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drain water smell spreading",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Patna",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Road construction incomplete for months",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "Medium",
+    "city": "Delhi",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Bus stop roof broken",
+    "category": "Transport",
+    "department": "Transport Department",
+    "priority": "Medium",
+    "city": "Mumbai",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Low water pressure issue",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Kolkata",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Voltage fluctuation damaging appliances",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Chennai",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Footpath encroachment problem",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Bangalore",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Government hospital negligence",
+    "category": "Health",
+    "department": "Health Department",
+    "priority": "High",
+    "city": "Hyderabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Mosquito breeding near house",
+    "category": "Health",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Patna",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Noise from construction site",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "Medium",
+    "city": "Delhi",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Garbage pile not cleared near school",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Lucknow",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Dustbins missing in public area",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Jaipur",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Power outage every evening",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Ahmedabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Loose electric wires hanging",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Surat",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water pipeline burst in street",
+    "category": "Infrastructure",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Pune",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Irregular water supply timings",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Nagpur",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Huge pothole on highway",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "High",
+    "city": "Indore",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drain overflow during rain",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Bhopal",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Traffic congestion due to signal issue",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "Medium",
+    "city": "Chandigarh",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Sewage leakage near houses",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Patna",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Stray cattle blocking roads",
+    "category": "Animal Control",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Delhi",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Street lights not installed in new colony",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "Medium",
+    "city": "Mumbai",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Manhole cover missing",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Kolkata",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Flooded road after rain",
+    "category": "Disaster",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Chennai",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Dirty water coming from taps",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Bangalore",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Signal timing causing traffic jams",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "Medium",
+    "city": "Hyderabad",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Illegal shop encroachment",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Lucknow",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Factory smoke causing pollution",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "High",
+    "city": "Jaipur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water tanker skipping our area",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Ahmedabad",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Public washroom unusable",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Surat",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Transformer making loud noise",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "Medium",
+    "city": "Pune",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Blocked sewer line",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Nagpur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Road not repaired after digging",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "Medium",
+    "city": "Indore",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Damaged bus shelter",
+    "category": "Transport",
+    "department": "Transport Department",
+    "priority": "Low",
+    "city": "Bhopal",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Water shortage in morning hours",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Chandigarh",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Electric sparks from pole",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Patna",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Footpath blocked by vendors",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Delhi",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Clinic refusing treatment",
+    "category": "Health",
+    "department": "Health Department",
+    "priority": "High",
+    "city": "Mumbai",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Stagnant water causing dengue risk",
+    "category": "Health",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Kolkata",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Loudspeaker noise at night",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "Medium",
+    "city": "Chennai",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Garbage collection vehicle not coming regularly",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Varanasi",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Waste dumped illegally near river",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "High",
+    "city": "Kanpur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Power outage during night hours",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Ranchi",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Transformer not working properly",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "Medium",
+    "city": "Guwahati",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Water pipeline leaking continuously",
+    "category": "Infrastructure",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Noida",
+    "escalation_required": false
+  },
+  {
+    "complaint": "No drinking water in area for two days",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Ghaziabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Deep potholes causing vehicle damage",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "High",
+    "city": "Faridabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drain water entering homes",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Meerut",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Traffic jam due to broken signal",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "Medium",
+    "city": "Amritsar",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Sewage overflow near market",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Ludhiana",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Stray animals blocking highway",
+    "category": "Animal Control",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Agra",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Street lights missing on road",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "Medium",
+    "city": "Prayagraj",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Manhole cover broken",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Dehradun",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Heavy waterlogging after rain",
+    "category": "Disaster",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Shimla",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drinking water looks muddy",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Jodhpur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Traffic lights out of sync",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "Medium",
+    "city": "Udaipur",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Encroachment on public land",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Kota",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Industrial waste dumped nearby",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "High",
+    "city": "Raipur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water supply irregular in mornings",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Bilaspur",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Public toilet lacks water facility",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Durg",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Electric pole tilted dangerously",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Patiala",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drain clogged causing overflow",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Jalandhar",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Road dug but not repaired",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "Medium",
+    "city": "Panipat",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Bus stop seat broken",
+    "category": "Transport",
+    "department": "Transport Department",
+    "priority": "Low",
+    "city": "Rohtak",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Water pressure very low",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Sonipat",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Electric sparks during rain",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Hisar",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Footpath occupied by shops",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Ambala",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Primary health center closed",
+    "category": "Health",
+    "department": "Health Department",
+    "priority": "High",
+    "city": "Gaya",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Mosquito issue increasing daily",
+    "category": "Health",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Muzaffarpur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Loud DJ noise late night",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "Medium",
+    "city": "Darbhanga",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Garbage scattered all over the street",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Aligarh",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Industrial waste dumped near residential area",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "High",
+    "city": "Moradabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Frequent power outages during daytime",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "Medium",
+    "city": "Bareilly",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Electric transformer burnt out",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Saharanpur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water pipeline leakage near park",
+    "category": "Infrastructure",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Gorakhpur",
+    "escalation_required": false
+  },
+  {
+    "complaint": "No water supply for last 24 hours",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Jhansi",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Road full of potholes after rain",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "High",
+    "city": "Mathura",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drain overflow near hospital",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Firozabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Traffic congestion due to illegal parking",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "Medium",
+    "city": "Etawah",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Sewage leakage near shops",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Rampur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Stray dogs chasing pedestrians",
+    "category": "Animal Control",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Hapur",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Street lights not functioning at night",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "Medium",
+    "city": "Bulandshahr",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Manhole without cover on busy road",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Budaun",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Flood water entering homes",
+    "category": "Disaster",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Shahjahanpur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water smells bad and unsafe",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Sitapur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Traffic signal not visible properly",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "Medium",
+    "city": "Lakhimpur",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Encroachment blocking footpath",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Azamgarh",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Air pollution due to factory emissions",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "High",
+    "city": "Ballia",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water tanker arrives late every day",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Deoria",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Public toilet in poor condition",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Mau",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Electric pole about to fall",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Chitrakoot",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drain water stagnating on road",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Mirzapur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Road damaged due to heavy vehicles",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "Medium",
+    "city": "Sonbhadra",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Bus stand roof leaking",
+    "category": "Transport",
+    "department": "Transport Department",
+    "priority": "Low",
+    "city": "Rewa",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Water supply stops frequently",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Satna",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Electric shock risk from exposed wires",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Katni",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Footpath blocked by street vendors",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Sagar",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Government hospital lacks medicines",
+    "category": "Health",
+    "department": "Health Department",
+    "priority": "High",
+    "city": "Jabalpur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Mosquito breeding due to stagnant water",
+    "category": "Health",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Ujjain",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Noise pollution from factory at night",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "Medium",
+    "city": "Ratlam",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Garbage not picked up from colony",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Nashik",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Plastic waste dumped in open area",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "High",
+    "city": "Aurangabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Frequent electricity outages",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Thane",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Transformer sparking during night",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Nagpur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water pipe leakage near market",
+    "category": "Infrastructure",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Kolhapur",
+    "escalation_required": false
+  },
+  {
+    "complaint": "No water supply in residential area",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Solapur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Road damaged due to construction",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "Medium",
+    "city": "Amravati",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Drain overflow near shops",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Akola",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Traffic jam near signal",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "Medium",
+    "city": "Latur",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Sewage water leakage in colony",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Jalgaon",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Stray dogs attacking people",
+    "category": "Animal Control",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Nanded",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Street lights not working",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "Medium",
+    "city": "Panaji",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Manhole open without cover",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Mysore",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Flooding in streets after rain",
+    "category": "Disaster",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Hubli",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drinking water contaminated",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Mangalore",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Traffic lights malfunctioning",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "Medium",
+    "city": "Belgaum",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Illegal encroachment on road",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Shimoga",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Air pollution due to burning waste",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "High",
+    "city": "Kochi",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water tanker delay",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Trivandrum",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Public toilets dirty and unusable",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Kozhikode",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Electric pole broken",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Salem",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drain blockage causing smell",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Madurai",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Road not repaired after digging",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "Medium",
+    "city": "Coimbatore",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Bus shelter damaged",
+    "category": "Transport",
+    "department": "Transport Department",
+    "priority": "Low",
+    "city": "Tiruchirappalli",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Water supply irregular",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Erode",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Electric sparks near house",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Vellore",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Footpath encroached by vendors",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Tirunelveli",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Hospital staff not available",
+    "category": "Health",
+    "department": "Health Department",
+    "priority": "High",
+    "city": "Warangal",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Mosquito issue due to water stagnation",
+    "category": "Health",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Karimnagar",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Noise pollution from construction",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "Medium",
+    "city": "Nizamabad",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Garbage not cleared from roadside for days",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Patna",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Open dumping of waste near residential colony",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "High",
+    "city": "Delhi",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Continuous power cut in evening",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Mumbai",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Electric transformer overheating",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Kolkata",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water pipe burst on main street",
+    "category": "Infrastructure",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Chennai",
+    "escalation_required": true
+  },
+  {
+    "complaint": "No water supply in morning hours",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Bangalore",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Road damaged due to rainwater",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "Medium",
+    "city": "Hyderabad",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Drain blockage causing water overflow",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Lucknow",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Traffic congestion during peak hours",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "Medium",
+    "city": "Jaipur",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Sewage water entering homes",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Ahmedabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Stray dogs creating safety issue",
+    "category": "Animal Control",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Surat",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Street lights not installed in colony",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "Medium",
+    "city": "Pune",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Open manhole causing accident risk",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Nagpur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Flooded streets after rainfall",
+    "category": "Disaster",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Indore",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water contamination issue in area",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Bhopal",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Traffic signal not working properly",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "High",
+    "city": "Chandigarh",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Illegal construction blocking road",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Kanpur",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Smoke from factories causing pollution",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "High",
+    "city": "Varanasi",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water tanker not reaching area",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Guwahati",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Public toilets dirty and unhygienic",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Ranchi",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Electric pole damaged after storm",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Noida",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drain blockage causing foul smell",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Ghaziabad",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Road digging not completed",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "Medium",
+    "city": "Faridabad",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Bus stop roof broken",
+    "category": "Transport",
+    "department": "Transport Department",
+    "priority": "Low",
+    "city": "Meerut",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Water pressure too low in taps",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Amritsar",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Electric sparks from loose wires",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Ludhiana",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Footpath blocked by vendors",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Agra",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Hospital lacks doctors",
+    "category": "Health",
+    "department": "Health Department",
+    "priority": "High",
+    "city": "Prayagraj",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Mosquito breeding in stagnant water",
+    "category": "Health",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Dehradun",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Noise pollution due to loudspeakers",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "Medium",
+    "city": "Shimla",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Garbage not cleared from market area",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Patna",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Plastic waste burning causing pollution",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "High",
+    "city": "Delhi",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Frequent electricity failure at night",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Mumbai",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Transformer failure causing blackout",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Kolkata",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Major water leakage on highway",
+    "category": "Infrastructure",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Chennai",
+    "escalation_required": true
+  },
+  {
+    "complaint": "No water supply for 2 days",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Bangalore",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Road collapsed after heavy rain",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "High",
+    "city": "Hyderabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drain overflow flooding houses",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Lucknow",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Severe traffic jam due to signal failure",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "High",
+    "city": "Jaipur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Sewage water mixed with drinking water",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Ahmedabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Stray animals causing road accidents",
+    "category": "Animal Control",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Surat",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Street lights completely off in area",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Pune",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Open manhole led to accident",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Nagpur",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Heavy flooding due to blocked drains",
+    "category": "Disaster",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Indore",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water contaminated with sewage",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Bhopal",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Traffic signals not working at junction",
+    "category": "Traffic",
+    "department": "Traffic Police",
+    "priority": "High",
+    "city": "Chandigarh",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Illegal encroachment blocking road",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Kanpur",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Air pollution due to factory smoke",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "High",
+    "city": "Varanasi",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Water tanker not supplied for days",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "High",
+    "city": "Guwahati",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Public toilets extremely dirty",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Ranchi",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Electric pole collapsed on road",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Noida",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Drain blockage causing health hazard",
+    "category": "Sanitation",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Ghaziabad",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Road not repaired after pipeline work",
+    "category": "Roads",
+    "department": "Public Works Department",
+    "priority": "Medium",
+    "city": "Faridabad",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Bus stop damaged and unsafe",
+    "category": "Transport",
+    "department": "Transport Department",
+    "priority": "Medium",
+    "city": "Meerut",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Water pressure extremely low",
+    "category": "Water Supply",
+    "department": "Water Department",
+    "priority": "Medium",
+    "city": "Amritsar",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Electric wires exposed and dangerous",
+    "category": "Electricity",
+    "department": "Electricity Board",
+    "priority": "High",
+    "city": "Ludhiana",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Footpath occupied by illegal vendors",
+    "category": "Infrastructure",
+    "department": "Municipal",
+    "priority": "Medium",
+    "city": "Agra",
+    "escalation_required": false
+  },
+  {
+    "complaint": "Government hospital lacks basic facilities",
+    "category": "Health",
+    "department": "Health Department",
+    "priority": "High",
+    "city": "Prayagraj",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Mosquito infestation increasing rapidly",
+    "category": "Health",
+    "department": "Municipal",
+    "priority": "High",
+    "city": "Dehradun",
+    "escalation_required": true
+  },
+  {
+    "complaint": "Noise pollution disturbing residents",
+    "category": "Environment",
+    "department": "Pollution Control Board",
+    "priority": "Medium",
+    "city": "Shimla",
+    "escalation_required": false
+  },
+  {
+    "additionalProp1": {}
+  }
+]
