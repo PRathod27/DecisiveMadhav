@@ -1,6 +1,4 @@
 __pycache__/
-*.pyc
 .env
-.git
 node_modules/
 frontend/
