@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 from fastapi import FastAPI
+=======
+from fastapi import FastAPI  # type: ignore[import]
+>>>>>>> 48411ed0b17abd5860e3a63f2975f8a6d52afa44
 from .routes import complaints
 from .routes import auth, dashboard
 from .database import Base, engine
