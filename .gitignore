@@ -1,3 +1,4 @@
 .env
 /agents/classification_agent/model/
 **/__pycache__/
+venv
